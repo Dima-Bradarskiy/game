@@ -936,7 +936,7 @@ footer {
 
 }
 
-@media screen and (max-width:380px) {
+@media screen and (max-width:450px) {
     .header-top-menu {
         display: none;
     }
